@@ -8,7 +8,7 @@ This project is an animal image classification application built using a **Mobil
 
 - **Model Training:** The MobileNetV2 model was trained on a custom dataset of animal images to accurately classify different animal classes.
 - **Deployment:** After training, the saved model and dynamically generated class labels were used to build a user-friendly web application with Gradio for image classification.
-- **Hosting:** The app is deployed on Hugging Face Spaces for easy access and sharing.
+- **Hosting:** The app is deployed on Hugging Face Spaces for easy access and sharing. https://adb7191d6c4273995b.gradio.live/
 
 ---
 
